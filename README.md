@@ -17,3 +17,5 @@ I wouldn't say 'it runs scripts at regualrly scheduled times' because that makes
 - "Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software." 
 
 Essentially, Jenkins is a tool to build, test, deliver and/or deploy software.
+
+Jenkins is a Continuous Deployment, Continuous Intergration (CD/CI) tool.
